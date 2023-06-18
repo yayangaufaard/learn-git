@@ -1,4 +1,4 @@
-# [Learning Git & Github](https://afifurrohman-id.github.io/learn-git)
+# Learning Git & Github
 > Learning git/github from basic usage
 
 ## Requirements: 
