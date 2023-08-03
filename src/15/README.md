@@ -2,7 +2,7 @@
 > if not fast forward you can merge without creating new commit, by using Rebase
 
 
-## Code
+## Command
 
 ```sh
 git rebase BRANCH_NAME

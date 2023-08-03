@@ -42,3 +42,15 @@
 
 12. [Git Alias](src/12/README.md)
    > [code](src/12/alias.sh)
+
+13. [Git Branch](src/13/README.md)
+   > [code](src/13/branch.sh)
+
+14. [Git Merge Branch](src/14/README.md)
+   > [code](src/14/merge.sh)
+
+15. [Git Rebase](src/15/README.md)
+   > [code](src/15/rebase.sh)
+
+16. [Git Cherry Pick](src/16/README.md)
+   > [code](src/16/cherry-pick.sh)
