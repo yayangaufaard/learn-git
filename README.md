@@ -35,40 +35,40 @@
    > [code](src/9/amend.sh)
 
 10. [Git Previous Version](src/10/README.md)
-   > [code](src/10/previous-version.sh)
+  > [code](src/10/previous-version.sh)
 
 11. [Git Blame](src/11/README.md)
-   > [code](src/11/blame.sh)
+  > [code](src/11/blame.sh)
 
 12. [Git Alias](src/12/README.md)
-   > [code](src/12/alias.sh)
+  > [code](src/12/alias.sh)
 
 13. [Git Branch](src/13/README.md)
-   > [code](src/13/branch.sh)
+  > [code](src/13/branch.sh)
 
 14. [Git Merge Branch](src/14/README.md)
-   > [code](src/14/merge.sh)
+  > [code](src/14/merge.sh)
 
 15. [Git Rebase](src/15/README.md)
-   > [code](src/15/rebase.sh)
+  > [code](src/15/rebase.sh)
 
 16. [Git Cherry Pick](src/16/README.md)
-   > [code](src/16/cherry-pick.sh)
+  > [code](src/16/cherry-pick.sh)
 
 17. [Git Remote](src/17/README.md)
-   > [code](src/17/remote.sh)
+  > [code](src/17/remote.sh)
 
 18. [Git Push](src/18/README.md)
-   > [code](src/18/push.sh)
+  > [code](src/18/push.sh)
 
 19. [Git Clone](src/19/README.md)
-   > [code](src/19/clone.sh)
+  > [code](src/19/clone.sh)
 
 20. [Git Pull](src/20/README.md)
-   > [code](src/20/pull.sh)
+  > [code](src/20/pull.sh)
 
 21. [Git Fetch](src/21/README.md)
-   > [code](src/21/fetch.sh)
+  > [code](src/21/fetch.sh)
 
 22. [Git Ignore](src/22/README.md)
-   > [code](src/22/ignore.sh)
+  > [code](src/22/ignore.sh)
