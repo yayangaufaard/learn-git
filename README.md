@@ -54,3 +54,21 @@
 
 16. [Git Cherry Pick](src/16/README.md)
    > [code](src/16/cherry-pick.sh)
+
+17. [Git Remote](src/17/README.md)
+   > [code](src/17/remote.sh)
+
+18. [Git Push](src/18/README.md)
+   > [code](src/18/push.sh)
+
+19. [Git Clone](src/19/README.md)
+   > [code](src/19/clone.sh)
+
+20. [Git Pull](src/20/README.md)
+   > [code](src/20/pull.sh)
+
+21. [Git Fetch](src/21/README.md)
+   > [code](src/21/fetch.sh)
+
+22. [Git Ignore](src/22/README.md)
+   > [code](src/22/ignore.sh)
