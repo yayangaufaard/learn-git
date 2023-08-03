@@ -8,7 +8,7 @@
 ### Journey
 
 1. [Git Config & Intro](src/1/README.md)
-   > [code](src/1/git-config.sh.sh)
+   > [code](src/1/git-config.sh)
 
 2. [Git Init](src/2/README.md)
    > [code](src/2/repository.sh)
