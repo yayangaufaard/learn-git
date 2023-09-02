@@ -3,3 +3,4 @@
 - [x] vida
 - [x] silvya 
 - [x] fia
+- [x] naya
