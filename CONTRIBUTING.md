@@ -5,3 +5,4 @@
 - [x] fia
 - [x] naya
 - [x] Sony
+- [x] Fina
