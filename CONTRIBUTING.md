@@ -4,3 +4,4 @@
 - [x] silvya 
 - [x] fia
 - [x] naya
+- [x] Sony
