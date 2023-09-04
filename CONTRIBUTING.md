@@ -12,3 +12,4 @@
 - [x] naya
 - [x] Sony
 - [x] Fina
+- [x] dika
