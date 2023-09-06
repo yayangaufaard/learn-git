@@ -13,3 +13,4 @@
 - [x] Sony
 - [x] Fina
 - [x] dika
+- [x] yayang
